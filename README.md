@@ -13,12 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
 </p>
-## 📊 Activity Snapshot
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=reinertjao&theme=github-dark&hide_border=true&bg_color=0d1117&color=919E95&line=5E5F5B&point=919E95"
-  />
-</p>
 
 ## 📫 Contact
 
